@@ -1,0 +1,23 @@
+Castellano, Dashley Joeberg E.
+200823256
+
+Practical exam:
+
+For this exercise, I chose to analyze my tweets.
+
+Data gathering: 
+Requested Twitter archive and was presented a csv file. Opened file in Excel and manually deleted all retweets and direct messages/mentions, leaving only my own unfiltered and undirected screaming at the void.
+Unfortunately, only IBM Watson’s Tone Analyzer demo was accessible from the lab and it only accepted a limited size input and so I was only able to analyze my latest 500 tweets.
+
+Findings:
+According to the Tone Analyzer, joy and sadness are likely present while anger, disgust, and fear are unlikely. This is already wrong as I have very little joy and many of my tweets are about my contempt for the current administration.
+It is apparent that 500 tweets should be considered a large dataset and contain such a high variance in tone that a large scale analysis is unhelpful.
+Another limitation is that the Tone Analyzer is unable to detect sarcasm which is the most basic of tones a human should be able to detect. Inspecting the results, the tweets marked as “joyful” are actually sarcastic.
+Stripped of links, images, and all context, Tone Analyzers are unable to provide analysis comparable to a human skimming through my timeline.
+Perhaps tweets are too small and too discrete and a better approach would have been to analyze each tweet individually.
+Both Language and Social Tendency have all fields marked unlikely.
+
+Further study: 
+Individual analysis of tweets will probably yield more definitive results.
+My tweets are timestamped so there is an opportunity to plot my mood swings. I may also link analysis with mentions and be able to find my disposition towards specific users I have tweeted at.
+For this, access to the API is necessary. I tried to sign up for an IBM BlueMix account but I think the proxy is preventing the signup page from loading.
