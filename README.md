@@ -23,7 +23,30 @@ So Rupert can be understood as an existential clown, a comedian who is his own p
   The film does not only acknowledge that this culture of publicity is problematic but it also stresses this message that somewhere out there lurks another Rupert Pupkin which actually can be anybody, anyone of us given that we are all susceptible to such tendencies in this predominantly consumer world.
 
 II.  Sentiments Analysis using Webtools :
-A. Tone Analyzer 
+A. Tone Analyzer : Uploaded as PDF file in the 1stexam repository (Summary of the Anaylsis down below)
+     
+     According to the application , The main emotions which likely are present within the text are Joy and Sadness having scores of 0.56 and 0.53 respectively . Other emotions which the application categorized as unlikely to be associated with the text are Anger , Disgust and Fear which only had 0.17 , 0.17 and 0.09 respectively.
+      In terms of language style, the application categorized the text as being analytic as it was able to register a score of 0.82 while confidence and tentative  barely had scores having only 0.00 and 0.01 which implies that it is unlikely of the text at all.
+      Lastly,in terms of social tendencies , Openness registered the highest score of 0.97 followed by extraversion which got 0.45 and then emotional range which got 0.26 and finally agreeableness and conscientiousness which only got 0.13 as their score.
+      
+B.rntn  : PROXY ERROR
+C. DecarboNet : Website ERROR
+D. Text2data : Gateway Timeout
+
+III. Assessment of the Sentiments Anaylysis
+A . Tone Analyzer
+  In terms of emotion, the tool identifying the text as that which expresses sadness is quite accurate for the tone of the text is that which implies dissappointment of the human race given that it is discussing a pervading pathos within a media saturated society. However, I do find it weird that it categorizes a critical paper as primarily a text which expresses happiness thought it might be accounted for the application's miscontextualization of a word frequent within the text which is "comedy". The application is also quite accurate when it comes to highlighting the small fragments of anger and disgust present within the text.
+   The application also is accurate in categorizing the language style of text as analytical given that the text serves as an academic essay for the purpose of comparing two textual materials: a film and a book which complements or rather implicity support each other's arguments. I do find it questionable why the text is not considered as that which is either tentative or confident given that the word I used in the essay were words commonly used in writing an objective paper which implies certainty. It might be just be a  conflict between the application and my own understanding of the words "confidence" and "certainty". 
+    With regards to the social tendencies of the text , I do agree that it being classified as a text which is very likely to be that of openness given that I have cited sources from different disclipines ranging from literature , philosophy and also sociology. I do also agree that the text provided was that of extraversion even though it did not register higher than five (only 0.45) given that the nature of my paper is that which is open to criticisms and engagement. 
+     From my observation of the application, I see it as that which is only capable of handling the text  by breaking it down to its  elementary elements which are words rather than a whole body or system of text . It is therefore guilty of miscontextualizing the tone of a certain statement. A human translator or mediator is therefore needed for the interpretation and judgment of the date provided by such tools.
+    
+
+   
+   
+
+
+
+
 
   
   
